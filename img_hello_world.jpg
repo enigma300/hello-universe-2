@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="hello_world.jpg" alt="A picture of a cat">
+</body>
+</html>
